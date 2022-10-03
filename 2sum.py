@@ -19,5 +19,4 @@ class Solution(object):
 s=Solution()
 nums=[2, 7, 11, 15]
 target=9
-print(s.twoSum(nums,target))
-print("Hello")
+print(s.twoSum(nums,target)) //
